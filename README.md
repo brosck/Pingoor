@@ -8,7 +8,7 @@
 
 ```
 # Hacked machine
-$ git clone https://github.com/Brosck/Pingoor.git
+$ git clone https://github.com/brosck/Pingoor.git
 $ cd Pingoor
 $ HOST=<YOURHOST> PORT=<YOURPORT> make
 $ sudo ./pingoor
