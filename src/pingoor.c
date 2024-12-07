@@ -21,7 +21,7 @@ void banner() {
 
 )EOF");
 
-    puts("	   \x1b[31m[\x1b[mCoded by MrEmpy\x1b[31m]\n");
+    puts("	   \x1b[31m[\x1b[mCoded by Brosck\x1b[31m]\n");
 }
 
 char* execmd(char* cmd, char* cmdoutput, size_t buffsize) {
